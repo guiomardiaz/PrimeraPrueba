@@ -74,6 +74,14 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
+  /** Magenta **/
+  --ion-color-magenta: #ba5ea6;
+	--ion-color-magenta-rgb: 186,94,166;
+	--ion-color-magenta-contrast: #000000;
+	--ion-color-magenta-contrast-rgb: 0,0,0;
+	--ion-color-magenta-shade: #a45392;
+	--ion-color-magenta-tint: #c16eaf;
 }
 
 @media (prefers-color-scheme: dark) {
